@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (STL_EX2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  STL_EX2.cpp
+D:\C++\Algorithm\STL_EX2\STL_EX2.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  STL_EX2.vcxproj -> D:\C++\Algorithm\Debug\STL_Vector.exe
